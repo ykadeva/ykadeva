@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### ⚡ Fun fact: Adding my static website soon
 <!--
 **ykadeva/ykadeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
